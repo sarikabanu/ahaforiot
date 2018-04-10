@@ -1,0 +1,31 @@
+{"API":"roleInsert","MESSAGE":{},"level":"info","message":"","timestamp":"2018-03-08T06:30:00.941Z"}
+{"API":"roleInsert","MESSAGE":{},"level":"info","message":"","timestamp":"2018-03-08T06:30:00.944Z"}
+{"API":"roleInsert","MESSAGE":{},"level":"info","message":"","timestamp":"2018-03-08T06:30:32.821Z"}
+{"API":"roleInsert","MESSAGE":{},"level":"info","message":"","timestamp":"2018-03-08T06:30:32.825Z"}
+{"API":"getRoleByName","MESSAGE":{},"level":"info","message":"","timestamp":"2018-03-08T07:05:06.974Z"}
+{"API":"getRoleByName","MESSAGE":{},"level":"info","message":"","timestamp":"2018-03-08T07:05:06.974Z"}
+{"API":"getrole","MESSAGE":"no rows to retreive details","level":"info","message":"","timestamp":"2018-03-08T07:27:53.448Z"}
+{"API":"getrole","MESSAGE":{},"level":"info","message":"","timestamp":"2018-03-08T07:27:53.451Z"}
+{"API":"deleteRole","MESSAGE":{"code":"ER_PARSE_ERROR","errno":1064,"sqlState":"42000","sqlMessage":"You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '?' at line 1"},"level":"info","message":"","timestamp":"2018-03-08T08:16:00.065Z"}
+{"API":"deleteRole","MESSAGE":{},"level":"info","message":"","timestamp":"2018-03-08T08:16:00.065Z"}
+{"API":"userInsert","MESSAGE":null,"level":"info","message":"","timestamp":"2018-03-08T09:15:55.184Z"}
+{"API":"userInsert","MESSAGE":{},"level":"info","message":"","timestamp":"2018-03-08T09:15:55.187Z"}
+{"API":"userUpdateByAdmin","MESSAGE":"sorry you dont have permission to retrieve details","level":"info","message":"","timestamp":"2018-03-08T09:37:04.019Z"}
+{"API":"userUpdate","MESSAGE":"sorry you dont have permission to retrieve details","level":"info","message":"","timestamp":"2018-03-08T09:56:46.833Z"}
+{"API":"getdeviceBySupervisor","MESSAGE":null,"level":"info","message":"","timestamp":"2018-03-12T07:11:07.994Z"}
+{"API":"getdeviceBySupervisor","MESSAGE":{},"level":"info","message":"","timestamp":"2018-03-12T07:11:07.994Z"}
+{"API":"getdeviceBySupervisor","MESSAGE":"sorry you dont have permission to retrieve details","level":"info","message":"","timestamp":"2018-03-12T07:12:32.234Z"}
+{"API":"getdeviceBySupervisor","MESSAGE":null,"level":"info","message":"","timestamp":"2018-03-12T07:15:25.625Z"}
+{"API":"getdeviceBySupervisor","MESSAGE":{},"level":"info","message":"","timestamp":"2018-03-12T07:15:25.627Z"}
+{"API":"loginUser","MESSAGE":"you need to register","level":"info","message":"","timestamp":"2018-03-13T05:43:15.815Z"}
+{"API":"userLogin","MESSAGE":{},"level":"info","message":"","timestamp":"2018-03-13T05:43:15.818Z"}
+{"API":"loginUser","MESSAGE":"you need to register","level":"info","message":"","timestamp":"2018-03-13T05:45:32.860Z"}
+{"API":"userLogin","MESSAGE":{},"level":"info","message":"","timestamp":"2018-03-13T05:45:32.861Z"}
+{"API":"loginUser","MESSAGE":"you need to register","level":"info","message":"","timestamp":"2018-03-13T05:45:59.605Z"}
+{"API":"userLogin","MESSAGE":{},"level":"info","message":"","timestamp":"2018-03-13T05:45:59.606Z"}
+{"API":"userLogin","MESSAGE":{},"level":"info","message":"","timestamp":"2018-03-13T05:47:45.652Z"}
+{"API":"loginUser","MESSAGE":"you need to register","level":"info","message":"","timestamp":"2018-03-13T05:47:45.650Z"}
+{"API":"loginUser","MESSAGE":"you need to register","level":"info","message":"","timestamp":"2018-03-13T06:39:33.150Z"}
+{"API":"userLogin","MESSAGE":{},"level":"info","message":"","timestamp":"2018-03-13T06:39:33.153Z"}
+{"API":"loginUser","MESSAGE":"you need to register","level":"info","message":"","timestamp":"2018-03-13T08:58:47.198Z"}
+{"API":"userLogin","MESSAGE":{},"level":"info","message":"","timestamp":"2018-03-13T08:58:47.224Z"}
